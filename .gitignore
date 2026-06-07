@@ -1,0 +1,51 @@
+## LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.dvi
+*.xdv
+
+## Bibliography
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+## Index / glossary / nomenclature
+*.idx
+*.ind
+*.ilg
+*.glo
+*.gls
+*.glg
+*.acn
+*.acr
+*.alg
+*.nlo
+*.nls
+
+## Beamer (if you make slides)
+*.nav
+*.snm
+*.vrb
+
+## minted / TikZ externalization
+_minted-*
+*.pyg
+*.figlist
+*.makefile
+*.auxlock
+
+## Editor / OS cruft
+*.swp
+.DS_Store
+.vscode/
+
+## PDFs are indeed necessary
