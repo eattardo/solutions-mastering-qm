@@ -50,4 +50,7 @@ _minted-*
 
 .claude/
 
+## LaTeX source (keep local; commit only the compiled PDFs)
+*.tex
+
 ## PDFs are indeed necessary
